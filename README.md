@@ -37,7 +37,6 @@ This project is created as an exercise for learning connectivity of Rails with R
   <ul>
     <li><a href="https://rubyonrails.org/">Rails</a></li>
     <li><a href="https://www.postgresql.org/">Postgresql</a></li>
-
   </ul>
 
 
@@ -78,7 +77,8 @@ Install this project with:
 Setup database using 
 
 `rails db:create
-rails db: migrate`
+rails db: migrate
+rails db:seed`
 
 ### Usage
 
