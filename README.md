@@ -28,6 +28,7 @@
 # 📖 Hello Rails Webpack App <a name="about-project"></a>
 
 This project is created as an exercise for learning connectivity of Rails with React as frontend.
+[Click here](https://github.com/asharanjith/hello-react-front-end)to see the frontend Repository built with React.
 
 
 ## 🛠 Built With <a name="built-with"></a>
