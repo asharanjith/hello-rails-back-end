@@ -85,7 +85,7 @@ rails db:seed`
 
 To run the project, execute the following command:
 
-`rails s`
+`rails s --port=1800`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
